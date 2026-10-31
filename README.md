@@ -9,7 +9,7 @@
   <a href="https://jeyasurya.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jeyasurya.pages.dev-e2481c?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/jeyasurya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jeyasurya-16150f?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:jeyasuryavelmurugan09@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeyasuryavelmurugan09%40gmail.com-16150f?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img alt="Open to remote, onsite and relocation" src="https://img.shields.io/badge/Open_to-remote_%2C_onsite_%26_relocation-55524a?style=flat-square">
+  <img alt="Open to remote, onsite and relocation" src="https://img.shields.io/badge/Open_to-remote%2C%20onsite%20%26%20relocation-55524a?style=flat-square">
 </p>
 
 Full-stack engineer at **Tacbot.ai**, building a multi-tenant SaaS case-management platform for enterprise IT operations. I like the parts of a system where correctness is hard: tenants that must never see each other's data, two systems of record that must agree, and AI that has to be cheap, grounded and observable.
