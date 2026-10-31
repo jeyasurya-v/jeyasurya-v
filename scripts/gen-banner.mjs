@@ -58,7 +58,7 @@ const themes = {
 
 function svg(t) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-labelledby="title desc">
-  <title id="title">Jeyasurya V — Software Engineer</title>
+  <title id="title">Jeyasurya V - Software Engineer</title>
   <desc id="desc">I build multi-tenant platforms, enterprise integrations and production AI systems. A clay scale model of connected systems with animated data flows.</desc>
   <style>
     .bg { fill: ${t.bg}; }
@@ -95,7 +95,7 @@ function svg(t) {
     <text class="head intro d2" x="0" y="182">enterprise integrations and</text>
     <text class="head intro d3" x="0" y="230">production AI systems.</text>
     <line class="rule intro d4" x1="0" y1="262" x2="560" y2="262"/>
-    <text class="sub intro d4" x="0" y="292">Go · TypeScript · Python — shipping in production since 2023 · Coimbatore, India</text>
+    <text class="sub intro d4" x="0" y="292">Go · TypeScript · Python - shipping in production since 2023 · Coimbatore, India</text>
   </g>
   <g class="model">
     ${scene()}

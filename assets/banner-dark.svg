@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Jeyasurya V — Software Engineer</title>
+  <title id="title">Jeyasurya V - Software Engineer</title>
   <desc id="desc">I build multi-tenant platforms, enterprise integrations and production AI systems. A clay scale model of connected systems with animated data flows.</desc>
   <style>
     .bg { fill: #121110; }
@@ -36,7 +36,7 @@
     <text class="head intro d2" x="0" y="182">enterprise integrations and</text>
     <text class="head intro d3" x="0" y="230">production AI systems.</text>
     <line class="rule intro d4" x1="0" y1="262" x2="560" y2="262"/>
-    <text class="sub intro d4" x="0" y="292">Go · TypeScript · Python — shipping in production since 2023 · Coimbatore, India</text>
+    <text class="sub intro d4" x="0" y="292">Go · TypeScript · Python - shipping in production since 2023 · Coimbatore, India</text>
   </g>
   <g class="model">
     <g class="solid base"><polygon class="l" points="731.8,168.5 976.1,309.5 976.1,301.3 731.8,160.3"/><polygon class="r" points="1159.2,203.7 976.1,309.5 976.1,301.3 1159.2,195.5"/><polygon class="t" points="915.0,54.5 1159.2,195.5 976.1,301.3 731.8,160.3"/></g>
